@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534209684298.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "450326460",
+    "id" : "DD8B0F6B",
+    "lastKnownWriteTime" : 1534210329,
+    "last_content_update" : 1534210329830,
+    "path" : "~/Unit 3 Projects/Covariance Matrices.R",
+    "project_path" : "Covariance Matrices.R",
+    "properties" : {
+        "cursorPosition" : "34,0",
+        "scrollLine" : "13",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

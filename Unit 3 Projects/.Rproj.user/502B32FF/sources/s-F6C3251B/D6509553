@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534023908567.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D6509553",
+    "lastKnownWriteTime" : 1534200200,
+    "last_content_update" : 1534200200327,
+    "path" : "~/Unit 3 Projects/GraphingprobabilityDensityFunctions.R",
+    "project_path" : "GraphingprobabilityDensityFunctions.R",
+    "properties" : {
+        "cursorPosition" : "29,15",
+        "scrollLine" : "11",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
